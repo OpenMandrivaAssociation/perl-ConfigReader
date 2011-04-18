@@ -1,6 +1,6 @@
 %define module   ConfigReader
 %define version    0.5
-%define release    %mkrel 2
+%define release    %mkrel 3
 
 Name:       perl-%{module}
 Version:    %{version}
