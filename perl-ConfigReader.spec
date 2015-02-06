@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.5
-Release:	5
+Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Read directives from a configuration file
